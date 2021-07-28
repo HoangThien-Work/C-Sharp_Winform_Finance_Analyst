@@ -1,0 +1,201 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{1D04BE5A-66D5-4294-AC91-87888F78C4B4}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <RootNamespace>FRA</RootNamespace>
+    <AssemblyName>FRA</AssemblyName>
+    <TargetFrameworkVersion>v4.6.1</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+    <Deterministic>true</Deterministic>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="MetroFramework, Version=1.4.0.0, Culture=neutral, PublicKeyToken=5f91a84759bf584a, processorArchitecture=MSIL">
+      <HintPath>..\packages\MetroModernUI.1.4.0.0\lib\net\MetroFramework.dll</HintPath>
+    </Reference>
+    <Reference Include="MetroFramework.Design, Version=1.4.0.0, Culture=neutral, PublicKeyToken=5f91a84759bf584a, processorArchitecture=MSIL">
+      <HintPath>..\packages\MetroModernUI.1.4.0.0\lib\net\MetroFramework.Design.dll</HintPath>
+    </Reference>
+    <Reference Include="MetroFramework.Fonts, Version=1.4.0.0, Culture=neutral, PublicKeyToken=5f91a84759bf584a, processorArchitecture=MSIL">
+      <HintPath>..\packages\MetroModernUI.1.4.0.0\lib\net\MetroFramework.Fonts.dll</HintPath>
+    </Reference>
+    <Reference Include="MoreLinq, Version=3.3.2.0, Culture=neutral, PublicKeyToken=384d532d7e88985d, processorArchitecture=MSIL">
+      <HintPath>..\packages\morelinq.3.3.2\lib\net451\MoreLinq.dll</HintPath>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Data.Linq" />
+    <Reference Include="System.ValueTuple, Version=4.0.3.0, Culture=neutral, PublicKeyToken=cc7b13ffcd2ddd51, processorArchitecture=MSIL">
+      <HintPath>..\packages\System.ValueTuple.4.5.0\lib\net461\System.ValueTuple.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="BLL\CategoryBus.cs" />
+    <Compile Include="BLL\Chi_so_dinh_giaBUS.cs" />
+    <Compile Include="BLL\Chi_so_sinh_loiBUS.cs" />
+    <Compile Include="BLL\Chi_so_tang_truongBUS.cs" />
+    <Compile Include="BLL\NewComBus.cs" />
+    <Compile Include="BLL\ViewBUS.cs" />
+    <Compile Include="DAL\CategoryDAO.cs" />
+    <Compile Include="DAL\NewComDAO.cs" />
+    <Compile Include="DAL\OutputDAO.cs" />
+    <Compile Include="DAL\ViewDAO.cs" />
+    <Compile Include="Data\DataString.cs" />
+    <Compile Include="DTO\FRA_Db.designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>FRA_Db.dbml</DependentUpon>
+    </Compile>
+    <Compile Include="fraDataSet1.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>fraDataSet1.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="PL\Home.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="PL\Home.Designer.cs">
+      <DependentUpon>Home.cs</DependentUpon>
+    </Compile>
+    <Compile Include="PL\Input\Add_Reports.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="PL\Input\Add_Reports.Designer.cs">
+      <DependentUpon>Add_Reports.cs</DependentUpon>
+    </Compile>
+    <Compile Include="PL\Output\Bao_cao_chi_so.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="PL\Output\Bao_cao_chi_so.Designer.cs">
+      <DependentUpon>Bao_cao_chi_so.cs</DependentUpon>
+    </Compile>
+    <Compile Include="PL\Output\Chi_so_dinh_gia.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="PL\Output\Chi_so_dinh_gia.Designer.cs">
+      <DependentUpon>Chi_so_dinh_gia.cs</DependentUpon>
+    </Compile>
+    <Compile Include="PL\Output\Chi_so_sinh_loi.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="PL\Output\Chi_so_sinh_loi.Designer.cs">
+      <DependentUpon>Chi_so_sinh_loi.cs</DependentUpon>
+    </Compile>
+    <Compile Include="PL\Output\Chi_so_tang_truong.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="PL\Output\Chi_so_tang_truong.Designer.cs">
+      <DependentUpon>Chi_so_tang_truong.cs</DependentUpon>
+    </Compile>
+    <Compile Include="PL\View.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="PL\View.Designer.cs">
+      <DependentUpon>View.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <EmbeddedResource Include="PL\Home.resx">
+      <DependentUpon>Home.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="PL\Input\Add_Reports.resx">
+      <DependentUpon>Add_Reports.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="PL\Output\Bao_cao_chi_so.resx">
+      <DependentUpon>Bao_cao_chi_so.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="PL\Output\Chi_so_dinh_gia.resx">
+      <DependentUpon>Chi_so_dinh_gia.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="PL\Output\Chi_so_sinh_loi.resx">
+      <DependentUpon>Chi_so_sinh_loi.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="PL\Output\Chi_so_tang_truong.resx">
+      <DependentUpon>Chi_so_tang_truong.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="PL\View.resx">
+      <DependentUpon>View.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <None Include="DTO\FRA_Db.dbml">
+      <Generator>MSLinqToSQLGenerator</Generator>
+      <LastGenOutput>FRA_Db.designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="DTO\FRA_Db.dbml.layout">
+      <DependentUpon>FRA_Db.dbml</DependentUpon>
+    </None>
+    <None Include="fraDataSet1.xsc">
+      <DependentUpon>fraDataSet1.xsd</DependentUpon>
+    </None>
+    <None Include="fraDataSet1.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>fraDataSet1.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="fraDataSet1.xss">
+      <DependentUpon>fraDataSet1.xsd</DependentUpon>
+    </None>
+    <None Include="packages.config" />
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\icon report.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Service Include="{3259AA49-8AA1-44D3-9025-A0B520596A8C}" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+</Project>

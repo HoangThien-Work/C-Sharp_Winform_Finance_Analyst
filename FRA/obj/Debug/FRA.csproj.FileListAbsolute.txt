@@ -1,0 +1,75 @@
+D:\Môn Học\Đồ án chuyên ngành\FRA\FRA\bin\Debug\FRA.exe.config
+D:\Môn Học\Đồ án chuyên ngành\FRA\FRA\bin\Debug\FRA.exe
+D:\Môn Học\Đồ án chuyên ngành\FRA\FRA\bin\Debug\FRA.pdb
+D:\Môn Học\Đồ án chuyên ngành\FRA\FRA\obj\Debug\FRA.csprojAssemblyReference.cache
+D:\Môn Học\Đồ án chuyên ngành\FRA\FRA\obj\Debug\FRA.Properties.Resources.resources
+D:\Môn Học\Đồ án chuyên ngành\FRA\FRA\obj\Debug\FRA.csproj.GenerateResource.cache
+D:\Môn Học\Đồ án chuyên ngành\FRA\FRA\obj\Debug\FRA.csproj.CoreCompileInputs.cache
+D:\Môn Học\Đồ án chuyên ngành\FRA\FRA\obj\Debug\FRA.exe
+D:\Môn Học\Đồ án chuyên ngành\FRA\FRA\obj\Debug\FRA.pdb
+D:\Môn Học\Đồ án chuyên ngành\FRA\FRA\obj\Debug\FRA.Chi_so_dinh_gia.resources
+D:\Môn Học\Đồ án chuyên ngành\FRA\FRA\obj\Debug\FRA.Bao_cao_chi_so.resources
+D:\Môn Học\Đồ án chuyên ngành\FRA\FRA\obj\Debug\FRA.Chi_so_sinh_loi.resources
+D:\Môn Học\Đồ án chuyên ngành\FRA\FRA\obj\Debug\FRA.Chi_so_tang_truong.resources
+D:\Môn Học\Đồ án chuyên ngành\FRA\FRA\obj\Debug\FRA.PL.Home.resources
+D:\Môn Học\Đồ án chuyên ngành\FRA\FRA\obj\Debug\FRA.PL.View.resources
+D:\Visual Studio Code Project\FRA\FRA\bin\Debug\FRA.exe.config
+D:\Visual Studio Code Project\FRA\FRA\bin\Debug\FRA.exe
+D:\Visual Studio Code Project\FRA\FRA\bin\Debug\FRA.pdb
+D:\Visual Studio Code Project\FRA\FRA\obj\Debug\FRA.csprojAssemblyReference.cache
+D:\Visual Studio Code Project\FRA\FRA\obj\Debug\FRA.PL.Home.resources
+D:\Visual Studio Code Project\FRA\FRA\obj\Debug\FRA.Bao_cao_chi_so.resources
+D:\Visual Studio Code Project\FRA\FRA\obj\Debug\FRA.Chi_so_dinh_gia.resources
+D:\Visual Studio Code Project\FRA\FRA\obj\Debug\FRA.Chi_so_sinh_loi.resources
+D:\Visual Studio Code Project\FRA\FRA\obj\Debug\FRA.Chi_so_tang_truong.resources
+D:\Visual Studio Code Project\FRA\FRA\obj\Debug\FRA.PL.View.resources
+D:\Visual Studio Code Project\FRA\FRA\obj\Debug\FRA.Properties.Resources.resources
+D:\Visual Studio Code Project\FRA\FRA\obj\Debug\FRA.csproj.GenerateResource.cache
+D:\Visual Studio Code Project\FRA\FRA\obj\Debug\FRA.csproj.CoreCompileInputs.cache
+D:\Visual Studio Code Project\FRA\FRA\obj\Debug\FRA.exe
+D:\Visual Studio Code Project\FRA\FRA\obj\Debug\FRA.pdb
+D:\Visual Studio Code Project\FRA\FRA\bin\Debug\MetroFramework.Design.dll
+D:\Visual Studio Code Project\FRA\FRA\bin\Debug\MetroFramework.dll
+D:\Visual Studio Code Project\FRA\FRA\bin\Debug\MetroFramework.Fonts.dll
+D:\Visual Studio Code Project\FRA\FRA\obj\Debug\FRA.csproj.CopyComplete
+D:\Visual Studio Code Project\FRA\FRA\obj\Debug\FRA.PL.Input.Add_Reports.resources
+D:\Môn Học\Đồ án chuyên ngành\New folder\FRA\FRA\obj\Debug\FRA.csprojAssemblyReference.cache
+D:\Môn Học\Đồ án chuyên ngành\New folder\FRA\FRA\obj\Debug\FRA.PL.Home.resources
+D:\Môn Học\Đồ án chuyên ngành\New folder\FRA\FRA\obj\Debug\FRA.PL.Input.Add_Reports.resources
+D:\Môn Học\Đồ án chuyên ngành\New folder\FRA\FRA\obj\Debug\FRA.Bao_cao_chi_so.resources
+D:\Môn Học\Đồ án chuyên ngành\New folder\FRA\FRA\obj\Debug\FRA.Chi_so_dinh_gia.resources
+D:\Môn Học\Đồ án chuyên ngành\New folder\FRA\FRA\obj\Debug\FRA.Chi_so_sinh_loi.resources
+D:\Môn Học\Đồ án chuyên ngành\New folder\FRA\FRA\obj\Debug\FRA.Chi_so_tang_truong.resources
+D:\Môn Học\Đồ án chuyên ngành\New folder\FRA\FRA\obj\Debug\FRA.PL.View.resources
+D:\Môn Học\Đồ án chuyên ngành\New folder\FRA\FRA\obj\Debug\FRA.Properties.Resources.resources
+D:\Môn Học\Đồ án chuyên ngành\New folder\FRA\FRA\obj\Debug\FRA.csproj.GenerateResource.cache
+D:\Môn Học\Đồ án chuyên ngành\New folder\FRA\FRA\obj\Debug\FRA.csproj.CoreCompileInputs.cache
+D:\Môn Học\Đồ án chuyên ngành\New folder\FRA\FRA\obj\Debug\FRA.exe
+D:\Môn Học\Đồ án chuyên ngành\New folder\FRA\FRA\obj\Debug\FRA.pdb
+D:\Môn Học\Đồ án chuyên ngành\New folder\FRA\FRA\bin\Debug\FRA.exe.config
+D:\Môn Học\Đồ án chuyên ngành\New folder\FRA\FRA\bin\Debug\FRA.exe
+D:\Môn Học\Đồ án chuyên ngành\New folder\FRA\FRA\bin\Debug\FRA.pdb
+D:\Môn Học\Đồ án chuyên ngành\New folder\FRA\FRA\bin\Debug\MetroFramework.Design.dll
+D:\Môn Học\Đồ án chuyên ngành\New folder\FRA\FRA\bin\Debug\MetroFramework.dll
+D:\Môn Học\Đồ án chuyên ngành\New folder\FRA\FRA\bin\Debug\MetroFramework.Fonts.dll
+D:\Môn Học\Đồ án chuyên ngành\New folder\FRA\FRA\bin\Debug\MoreLinq.dll
+D:\Môn Học\Đồ án chuyên ngành\New folder\FRA\FRA\bin\Debug\System.ValueTuple.dll
+D:\Môn Học\Đồ án chuyên ngành\New folder\FRA\FRA\bin\Debug\MoreLinq.pdb
+D:\Môn Học\Đồ án chuyên ngành\New folder\FRA\FRA\bin\Debug\MoreLinq.xml
+D:\Môn Học\Đồ án chuyên ngành\New folder\FRA\FRA\bin\Debug\System.ValueTuple.xml
+D:\Môn Học\Đồ án chuyên ngành\New folder\FRA\FRA\obj\Debug\FRA.csproj.CopyComplete
+D:\Môn Học\Đồ án chuyên ngành\FRA\FRA\bin\Debug\MetroFramework.Design.dll
+D:\Môn Học\Đồ án chuyên ngành\FRA\FRA\bin\Debug\MetroFramework.dll
+D:\Môn Học\Đồ án chuyên ngành\FRA\FRA\bin\Debug\MetroFramework.Fonts.dll
+D:\Môn Học\Đồ án chuyên ngành\FRA\FRA\bin\Debug\MoreLinq.dll
+D:\Môn Học\Đồ án chuyên ngành\FRA\FRA\bin\Debug\System.ValueTuple.dll
+D:\Môn Học\Đồ án chuyên ngành\FRA\FRA\bin\Debug\MoreLinq.pdb
+D:\Môn Học\Đồ án chuyên ngành\FRA\FRA\bin\Debug\MoreLinq.xml
+D:\Môn Học\Đồ án chuyên ngành\FRA\FRA\bin\Debug\System.ValueTuple.xml
+D:\Môn Học\Đồ án chuyên ngành\FRA\FRA\obj\Debug\FRA.PL.Input.Add_Reports.resources
+D:\Môn Học\Đồ án chuyên ngành\FRA\FRA\obj\Debug\FRA.csproj.CopyComplete
+D:\Visual Studio Code Project\FRA\FRA\bin\Debug\MoreLinq.dll
+D:\Visual Studio Code Project\FRA\FRA\bin\Debug\System.ValueTuple.dll
+D:\Visual Studio Code Project\FRA\FRA\bin\Debug\MoreLinq.pdb
+D:\Visual Studio Code Project\FRA\FRA\bin\Debug\MoreLinq.xml
+D:\Visual Studio Code Project\FRA\FRA\bin\Debug\System.ValueTuple.xml
